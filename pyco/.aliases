@@ -1,0 +1,4 @@
+listr = list --reverse
+tic = time --start
+toc = time --stop
+cd.. = cd ..
